@@ -48,7 +48,7 @@ reward_wording: '谢谢你请我吃糖'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
 alipay: 
 # 微信二维码图片地址
-weixin: source/img/fukuan.png
+weixin: /img/fukuan.png
 
 # 目录
 # 目录设定：0-不显示目录； 1-文章对应的md文件里有toc:true属性，才有目录； 2-所有文章均显示目录
@@ -64,10 +64,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: img/tubiao.png
+favicon: /img/tubiao.png
 
 #你的头像url
-avatar: img/touxiang.png
+avatar: /img/touxiang.png
 
 #是否开启分享
 share_jia: true
