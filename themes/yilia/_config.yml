@@ -8,16 +8,16 @@ menu:
 subnav:
   github: "https://github.com/dandanBrave"
   weibo: "http://weibo.com/u/2548424292"
-  rss: "#"
-  zhihu: "#"
-  #qq: "#"
+  email: "269045975@qq.com"
   #weixin: "#"
+  #zhihu: "#"
+  #rss: "#"
+  #qq: "#"
   #jianshu: "#"
   #douban: "#"
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -65,10 +65,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /favicon.png
+favicon: img/tubiao.png
 
 #你的头像url
-avatar:
+avatar: img/touxiang.png
 
 #是否开启分享
 share_jia: true
@@ -112,9 +112,10 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  友情链接1: http://www.xidian.edu.cn/
-  友情链接2: https://www.baidu.com/
-  友情链接3: http://rs.xidian.cc/
+  西电主页: http://www.xidian.edu.cn/
+  百度: https://www.baidu.com/
+  谷歌: https://www.google.com/
+  睿思: http://rs.xidian.cc/
   
 
-aboutme: 西安电子科技大学萌新一个<br><br>阳光小姐姐<br>谢谢你们的喜欢
+aboutme: 西安电子科技大学萌新一个<br>93年阳光小姐姐<br>谢谢你们的喜欢
