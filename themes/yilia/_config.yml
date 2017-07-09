@@ -6,9 +6,9 @@ menu:
 # SubNav
 subnav:
   github: "https://github.com/dandanBrave"
-  weibo: "http://weibo.com/u/2548424292"
-  rss: "#"
-  email: "269045975@qq.com"
+  #weibo: "#"
+  #rss: "#"
+  #email: "#"
   #weixin: "#"
   #zhihu: "#"
   #qq: "#"
@@ -113,8 +113,7 @@ smart_menu:
 friends:
   西电主页: http://www.xidian.edu.cn/
   百度: https://www.baidu.com/
-  谷歌: https://www.google.com/
-  睿思: http://rs.xidian.cc/
+  谷歌: https://www.google.com/ 
   
 
 aboutme: 西安电子科技大学萌新一个<br>93年阳光小姐姐<br>爱好前端技术<br/>谢谢你们的喜欢
